@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShareProject</string>
+    <string name="login_err_1">이메일을 입력해주세요.</string>
+</resources>
