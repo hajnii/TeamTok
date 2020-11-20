@@ -259,11 +259,8 @@ public class ListBoard extends Fragment{
         deadlineNetworkData();
         updatedeadlineNetworkData();
 
-
         topNetworkData();
         updatetopNetworkData();
-
-
     }
 
 }
